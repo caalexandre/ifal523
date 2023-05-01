@@ -238,7 +238,8 @@ footer a:hover{
 }
 
 .notice-content table tr span:hover{
-    background-color: #49356b;
+    background-color: #ffffff;
+    color: #380099;
     transition: .3s;
     cursor: pointer;
 }
